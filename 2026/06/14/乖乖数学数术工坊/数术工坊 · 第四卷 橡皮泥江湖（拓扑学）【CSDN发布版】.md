@@ -7,7 +7,7 @@ title: 数术工坊 · 第四卷 橡皮泥江湖（拓扑学）
 
 ---
 
-![数术工坊第四卷 橡皮泥江湖 封面](https://aka.doubaocdn.com/s/siVh1wjJYF)
+![数术工坊第四卷 橡皮泥江湖 封面](https://gitcode.com/aikjx/aikjxcz/raw/main/2026/06/14/%E4%B9%96%E4%B9%96%E6%95%B0%E5%AD%A6%E6%95%B0%E6%9C%AF%E5%B7%A5%E5%9D%8A/img/%E7%AC%AC%E5%9B%9B%E5%8D%B7_%E6%A9%A1%E6%B3%A5%E8%86%9C%E6%B1%9F%E6%B9%96/image_1.jpg)
 
 ---
 
@@ -33,7 +33,7 @@ title: 数术工坊 · 第四卷 橡皮泥江湖（拓扑学）
 
 ---
 
-![师徒踏入橡皮泥江湖](https://aka.doubaocdn.com/s/drop1wjJYE)  
+![师徒踏入橡皮泥江湖](https://gitcode.com/aikjx/aikjxcz/raw/main/2026/06/14/%E4%B9%96%E4%B9%96%E6%95%B0%E5%AD%A6%E6%95%B0%E6%9C%AF%E5%B7%A5%E5%9D%8A/img/%E7%AC%AC%E5%9B%9B%E5%8D%B7_%E6%A9%A1%E6%B3%A5%E8%86%9C%E6%B1%9F%E6%B9%96/image_2.jpg)  
 *师徒二人踏入橡皮泥江湖的奇异疆域*
 
 辞别质数王朝的巍峨城门，阿数随师傅踏上一片奇异疆域。此地无定规、无直角、无刻度，天地间所有山川草木、亭台楼阁，皆如柔软的橡皮泥般可随意揉捏、拉伸、扭曲。
@@ -54,7 +54,7 @@ title: 数术工坊 · 第四卷 橡皮泥江湖（拓扑学）
 
 ---
 
-![拓扑真意 同胚演示](https://aka.doubaocdn.com/s/U7NI1wjJYG)  
+![拓扑真意 同胚演示](https://gitcode.com/aikjx/aikjxcz/raw/main/2026/06/14/%E4%B9%96%E4%B9%96%E6%95%B0%E5%AD%A6%E6%95%B0%E6%9C%AF%E5%B7%A5%E5%9D%8A/img/%E7%AC%AC%E5%9B%9B%E5%8D%B7_%E6%A9%A1%E6%B3%A5%E8%86%9C%E6%B1%9F%E6%B9%96/image_3.jpg)  
 *圆环、甜甜圈、茶杯 —— 同胚的拓扑变换*
 
 师傅抬手，虚空浮现三件灵物：
@@ -101,7 +101,7 @@ $$ X \cong Y $$
 
 ---
 
-![九同境界 拓扑修行天梯](https://aka.doubaocdn.com/s/jdqb1wjJYL)  
+![九同境界 拓扑修行天梯](https://gitcode.com/aikjx/aikjxcz/raw/main/2026/06/14/%E4%B9%96%E4%B9%96%E6%95%B0%E5%AD%A6%E6%95%B0%E6%9C%AF%E5%B7%A5%E5%9D%8A/img/%E7%AC%AC%E5%9B%9B%E5%8D%B7_%E6%A9%A1%E6%B3%A5%E8%86%9C%E6%B1%9F%E6%B9%96/image_4.jpg)  
 *九同奥义 —— 拓扑修行的九层天梯*
 
 师傅袖袍一挥，九道拓扑真言依次浮现，对应九层修行境界，为全书原创核心奥义：
@@ -148,7 +148,7 @@ $$ \chi = 2 - 2g $$
 
 ---
 
-![万骨归一 拓扑大道圆满](https://aka.doubaocdn.com/s/r9Rx1wjJYE)  
+![万骨归一 拓扑大道圆满](https://gitcode.com/aikjx/aikjxcz/raw/main/2026/06/14/%E4%B9%96%E4%B9%96%E6%95%B0%E5%AD%A6%E6%95%B0%E6%9C%AF%E5%B7%A5%E5%9D%8A/img/%E7%AC%AC%E5%9B%9B%E5%8D%B7_%E6%A9%A1%E6%B3%A5%E8%86%9C%E6%B1%9F%E6%B9%96/image_5.jpg)  
 *形变万千，万骨归一 —— 拓扑大道圆满*
 
 > **形变万千，不离其宗；**  
