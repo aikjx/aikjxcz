@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>数术工坊·第四卷 橡皮泥江湖（拓扑学）</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700&display=swap');
+        
+        body {
+            font-family: 'Noto Serif SC', serif;
+            background: linear-gradient(135deg, #fdf6e3 0%, #f5e6d3 50%, #e8d4b8 100%);
+            line-height: 2;
+        }
+        
+        .chapter-title {
+            background: linear-gradient(135deg, #8B4513, #D4A574);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        
+        .section-title {
+            color: #5D4037;
+            border-left: 4px solid #8B4513;
+            padding-left: 1rem;
+        }
+        
+        .quote-box {
+            background: linear-gradient(135deg, rgba(139, 69, 19, 0.05), rgba(212, 165, 116, 0.1));
+            border-left: 3px solid #8B4513;
+            padding: 1.5rem;
+            margin: 1.5rem 0;
+            font-style: italic;
+        }
+        
+        .table-container {
+            overflow-x: auto;
+        }
+        
+        .realm-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+        
+        .realm-table th {
+            background: linear-gradient(135deg, #8B4513, #A0522D);
+            color: white;
+            padding: 1rem;
+            text-align: center;
+        }
+        
+        .realm-table td {
+            padding: 0.8rem 1rem;
+            border-bottom: 1px solid #D4A574;
+        }
+        
+        .realm-table tr:hover {
+            background: rgba(212, 165, 116, 0.2);
+        }
+        
+        .image-container {
+            margin: 2rem 0;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 10px 40px rgba(139, 69, 19, 0.2);
+        }
+        
+        .image-container img {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+        
+        .image-caption {
+            text-align: center;
+            color: #6D4C41;
+            padding: 0.8rem;
+            font-size: 0.9rem;
+            background: rgba(255, 255, 255, 0.8);
+        }
+        
+        strong {
+            color: #8B4513;
+            font-weight: 700;
+        }
+        
+        .ending-page {
+            text-align: center;
+            padding: 3rem 0;
+            background: linear-gradient(135deg, rgba(139, 69, 19, 0.1), rgba(212, 165, 116, 0.15));
+            border-radius: 12px;
+            margin-top: 3rem;
+        }
+    </style>
+</head>
+<body class="max-w-4xl mx-auto px-6 py-12">
+
+    <!-- 封面 -->
+    <div class="image-container">
+        <img src="https://aka.doubaocdn.com/s/3qXX1wjJYM" alt="数术工坊·第四卷 橡皮泥江湖 封面">
+        <div class="image-caption">★ 数术工坊·第四卷 橡皮泥江湖（拓扑学）★</div>
+    </div>
+
+    <!-- 卷首总引 -->
+    <div class="text-center mb-12">
+        <h1 class="text-4xl font-bold chapter-title mb-4">数术工坊·第四卷 橡皮泥江湖（拓扑学）</h1>
+        <p class="text-xl text-gray-600">【完整定稿】</p>
+    </div>
+
+    <div class="image-container">
+        <img src="https://aka.doubaocdn.com/s/5VDh1wjJYb" alt="卷首意境：从质数王朝踏入橡皮泥江湖">
+        <div class="image-caption">辞别质数王朝，踏入橡皮泥江湖——从不变之质，到不变之骨</div>
+    </div>
+
+    <h2 class="text-2xl font-bold section-title mb-6">卷首总引</h2>
+
+    <p class="mb-6">
+        第三卷 质数王朝，修数之本源、刚硬不摧、万数根基，守的是 「不变之质」。
+    </p>
+
+    <p class="mb-6">
+        第四卷 踏入橡皮泥江湖，修形之万变、骨之恒存、结构真髓，悟的是 「不变之骨」。
+    </p>
+
+    <div class="quote-box mb-8">
+        <p class="text-xl text-center mb-4">几何度量皮相，拓扑勘破神魂。</p>
+        <p class="text-center">拉伸、扭曲、揉捏、延展，万般外形皆可改；</p>
+        <p class="text-center">连通、孔洞、缠绕、维度，核心骨架永不移。</p>
+    </div>
+
+    <p class="mb-6">
+        本卷独创 九同奥义 为拓扑修行天梯，承袭全书统一六境修为体系，以江湖修仙叙事解构曲面、绳结、单侧空间、同胚同源终极法理，形变万千，万骨归一，圆满拓扑大道。
+    </p>
+
+    <hr class="my-12 border-t-2 border-amber-200">
+
+    <!-- 第一章 -->
+    <h2 class="text-3xl font-bold chapter-title text-center mb-8">第一章 形可变，骨永存，连通为宗</h2>
+
+    <p class="mb-6">
+        辞别质数王朝的巍峨城门，阿数随师傅踏上一片奇异疆域。此地无定规、无直角、无刻度，天地间所有山川草木、亭台楼阁，皆如柔软的橡皮泥般可随意揉捏、拉伸、扭曲。
+    </p>
+
+    <p class="mb-6">
+        师傅随手抓起一块山石，轻轻一捏，山石便化作一只游鱼；又朝远处一指，蜿蜒长河被拉成一条直线，河水却未洒出半滴。
+    </p>
+
+    <div class="quote-box mb-8">
+        <p>"第三卷修的是'数之质'，质数如铁，刚硬不摧，是天地不变之基。</p>
+        <p>今日踏入橡皮泥江湖，学的却是'形之变'。</p>
+        <p>在这里，大小、长短、曲直皆可改，唯有一样东西，是天地间最大的规矩 —— 连通性。"</p>
+    </div>
+
+    <p class="mb-6">
+        阿数伸手触碰地面，只觉脚下泥土柔软如膏，却无论如何也无法将其撕成两半："师傅，此地万物皆可变形，难道没有定数了吗？"
+    </p>
+
+    <p class="mb-6">
+        "有定数，而且是大定数。" 师傅笑道，"你且看。"
+    </p>
+
+    <h3 class="text-xl font-bold section-title mb-4 mt-10">一、拓扑真意：形变不灭，连通为宗</h3>
+
+    <div class="image-container">
+        <img src="https://aka.doubaocdn.com/s/ErZi1wjJYy" alt="拓扑真意：圆环、甜甜圈、茶杯同胚">
+        <div class="image-caption">拓扑三灵物：圆环、甜甜圈、茶杯——形异而骨同</div>
+    </div>
+
+    <p class="mb-6">
+        师傅抬手，虚空浮现三件灵物：
+    </p>
+
+    <p class="mb-6">
+        一根闭合的圆环灵索、一只多孔的甜甜圈（环面）、一只带把手的茶杯。
+    </p>
+
+    <p class="mb-6">
+        "在寻常几何眼中，这三物形态迥异，尺度、曲直、角度无一相同。但在拓扑眼中 ——"
+    </p>
+
+    <p class="mb-6">
+        师傅指尖灵光一闪，三物同时如橡皮泥般蠕动起来。圆环被拉长、压扁，成了椭圆；甜甜圈被揉捏、塑形，成了茶杯；茶杯的把手被拉长、弯曲，与圆环重合。
+    </p>
+
+    <p class="mb-6">
+        "它们是 同胚 的！" 阿数惊呼。
+    </p>
+
+    <div class="quote-box mb-8">
+        <p>"正是。" 师傅颔首，"拓扑者，橡皮泥上的几何也。它不管你有多大、有多弯、是长是短，只问一件事：连通与否，孔洞几何。"</p>
+    </div>
+
+    <ul class="list-disc pl-8 mb-6 space-y-2">
+        <li>圆环剪一刀，断开，连通性变；</li>
+        <li>甜甜圈戳个洞，多出一个孔，拓扑性质变；</li>
+        <li>茶杯若无把手，便与圆环同胚；若有把手，便与甜甜圈同胚。</li>
+    </ul>
+
+    <div class="quote-box mb-8 text-center">
+        <p class="font-bold text-lg">大小可欺，连通难欺；曲直可改，孔数难移。</p>
+        <p class="text-sm mt-2">此乃拓扑第一铁律。</p>
+    </div>
+
+    <h3 class="text-xl font-bold section-title mb-4 mt-10">二、九同境界：拓扑修行的九层天梯</h3>
+
+    <div class="image-container">
+        <img src="https://aka.doubaocdn.com/s/VcVo1wjJZ1" alt="九同境界九层天梯">
+        <div class="image-caption">九同奥义——拓扑修行九层天梯</div>
+    </div>
+
+    <p class="mb-6">
+        师傅袖袍一挥，九道拓扑真言依次浮现，对应九层修行境界，为全书原创核心奥义：
+    </p>
+
+    <div class="table-container">
+        <table class="realm-table">
+            <thead>
+                <tr>
+                    <th>境界</th>
+                    <th>真言</th>
+                    <th>释义</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="font-bold text-center">第一境</td>
+                    <td class="font-bold text-center">点同</td>
+                    <td>两点之间，可连一线，连通之本</td>
+                </tr>
+                <tr>
+                    <td class="font-bold text-center">第二境</td>
+                    <td class="font-bold text-center">线同</td>
+                    <td>曲线可拉直，折线可抹平，曲直无别</td>
+                </tr>
+                <tr>
+                    <td class="font-bold text-center">第三境</td>
+                    <td class="font-bold text-center">面同</td>
+                    <td>曲面可展平，球面可变形，面积可胀缩</td>
+                </tr>
+                <tr>
+                    <td class="font-bold text-center">第四境</td>
+                    <td class="font-bold text-center">体同</td>
+                    <td>形体可揉捏，胖瘦可改易，体积可伸缩</td>
+                </tr>
+                <tr>
+                    <td class="font-bold text-center">第五境</td>
+                    <td class="font-bold text-center">孔同</td>
+                    <td>孔洞数量恒定，是拓扑不变量的核心</td>
+                </tr>
+                <tr>
+                    <td class="font-bold text-center">第六境</td>
+                    <td class="font-bold text-center">连同</td>
+                    <td>连通分支数不变，撕裂即破功</td>
+                </tr>
+                <tr>
+                    <td class="font-bold text-center">第七境</td>
+                    <td class="font-bold text-center">向同</td>
+                    <td>定向性不变，单侧空间永恒单侧</td>
+                </tr>
+                <tr>
+                    <td class="font-bold text-center">第八境</td>
+                    <td class="font-bold text-center">维同</td>
+                    <td>维度守恒，二维永不成三维</td>
+                </tr>
+                <tr>
+                    <td class="font-bold text-center">第九境</td>
+                    <td class="font-bold text-center">道同</td>
+                    <td>同胚同源，万骨归一，拓扑大道圆满</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <p class="mt-8 mb-6">
+        拓扑学中，欧拉示性数作为最基本的拓扑不变量，可表示为：
+    </p>
+
+    <div class="text-center text-2xl my-8">
+        $$ \chi = V - E + F $$
+    </div>
+
+    <p class="mb-6">
+        其中 $V$ 为顶点数，$E$ 为边数，$F$ 为面数。对于闭合曲面，亏格 $g$ 与欧拉示性数的关系为：
+    </p>
+
+    <div class="text-center text-2xl my-8">
+        $$ \chi = 2 - 2g $$
+    </div>
+
+    <p class="mb-6">
+        这便是橡皮泥江湖中，形变万千而永不改变的核心骨架。
+    </p>
+
+    <hr class="my-12 border-t-2 border-amber-200">
+
+    <!-- 结尾 -->
+    <div class="image-container">
+        <img src="https://aka.doubaocdn.com/s/0dTZ1wjXMo" alt="拓扑大道圆满">
+        <div class="image-caption">形变万千，万骨归一——拓扑大道圆满</div>
+    </div>
+
+    <div class="ending-page">
+        <h3 class="text-2xl font-bold chapter-title mb-4">本卷未完待续</h3>
+        <p class="text-gray-600 mb-4">更多拓扑奥义，敬请期待后续章节</p>
+        <p class="text-sm text-gray-500">数术工坊 · 以修仙之法，悟数学之道</p>
+    </div>
+
+    <script>
+        renderMathInElement(document.body, {
+            delimiters: [
+                {left: "$$", right: "$$", display: true},
+                {left: "$", right: "$", display: false}
+            ]
+        });
+    </script>
+</body>
+</html>
