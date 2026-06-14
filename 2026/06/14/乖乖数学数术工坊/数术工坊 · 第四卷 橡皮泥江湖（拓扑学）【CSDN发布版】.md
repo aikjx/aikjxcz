@@ -1,13 +1,8 @@
----
-layout: default
-title: 数术工坊 · 第四卷 橡皮泥江湖（拓扑学）
----
-
 # 数术工坊 · 第四卷 橡皮泥江湖（拓扑学）【完整定稿】
 
 ---
 
-![数术工坊第四卷 橡皮泥江湖 封面](https://raw.gitcode.com/aikjx/aikjxcz/raw/main/2026/06/14/%E4%B9%96%E4%B9%96%E6%95%B0%E5%AD%A6%E6%95%B0%E6%9C%AF%E5%B7%A5%E5%9D%8A/img/%E5%85%AB%E5%8D%B7%E5%85%A8%E4%B9%A6%E6%80%BB%E8%A7%88/image_1.jpg)
+![数术工坊第四卷 橡皮泥江湖 封面](https://raw.gitcode.com/aikjx/aikjxcz/raw/main/2026/06/14/%E4%B9%96%E4%B9%96%E6%95%B0%E5%AD%A6%E6%95%B0%E6%9C%AF%E5%B7%A5%E5%9D%8A/img/image_1.jpg)
 
 ---
 
@@ -33,7 +28,7 @@ title: 数术工坊 · 第四卷 橡皮泥江湖（拓扑学）
 
 ---
 
-![师徒踏入橡皮泥江湖](https://raw.gitcode.com/aikjx/aikjxcz/raw/main/2026/06/14/%E4%B9%96%E4%B9%96%E6%95%B0%E5%AD%A6%E6%95%B0%E6%9C%AF%E5%B7%A5%E5%9D%8A/img/%E5%85%AB%E5%8D%B7%E5%85%A8%E4%B9%A6%E6%80%BB%E8%A7%88/image_2.jpg)  
+![师徒踏入橡皮泥江湖](https://raw.gitcode.com/aikjx/aikjxcz/raw/main/2026/06/14/%E4%B9%96%E4%B9%96%E6%95%B0%E5%AD%A6%E6%95%B0%E6%9C%AF%E5%B7%A5%E5%9D%8A/img/image_2.jpg)  
 *师徒二人踏入橡皮泥江湖的奇异疆域*
 
 辞别质数王朝的巍峨城门，阿数随师傅踏上一片奇异疆域。此地无定规、无直角、无刻度，天地间所有山川草木、亭台楼阁，皆如柔软的橡皮泥般可随意揉捏、拉伸、扭曲。
@@ -54,7 +49,7 @@ title: 数术工坊 · 第四卷 橡皮泥江湖（拓扑学）
 
 ---
 
-![拓扑真意 同胚演示](https://raw.gitcode.com/aikjx/aikjxcz/raw/main/2026/06/14/%E4%B9%96%E4%B9%96%E6%95%B0%E5%AD%A6%E6%95%B0%E6%9C%AF%E5%B7%A5%E5%9D%8A/img/%E5%85%AB%E5%8D%B7%E5%85%A8%E4%B9%A6%E6%80%BB%E8%A7%88/image_3.jpg)  
+![拓扑真意 同胚演示](https://raw.gitcode.com/aikjx/aikjxcz/raw/main/2026/06/14/%E4%B9%96%E4%B9%96%E6%95%B0%E5%AD%A6%E6%95%B0%E6%9C%AF%E5%B7%A5%E5%9D%8A/img/image_3.jpg)  
 *圆环、甜甜圈、茶杯 —— 同胚的拓扑变换*
 
 师傅抬手，虚空浮现三件灵物：
@@ -101,7 +96,7 @@ $$ X \cong Y $$
 
 ---
 
-![九同境界 拓扑修行天梯](https://raw.gitcode.com/aikjx/aikjxcz/raw/main/2026/06/14/%E4%B9%96%E4%B9%96%E6%95%B0%E5%AD%A6%E6%95%B0%E6%9C%AF%E5%B7%A5%E5%9D%8A/img/%E5%85%AB%E5%8D%B7%E5%85%A8%E4%B9%A6%E6%80%BB%E8%A7%88/image_4.jpg)  
+![九同境界 拓扑修行天梯](https://raw.gitcode.com/aikjx/aikjxcz/raw/main/2026/06/14/%E4%B9%96%E4%B9%96%E6%95%B0%E5%AD%A6%E6%95%B0%E6%9C%AF%E5%B7%A5%E5%9D%8A/img/image_4.jpg)  
 *九同奥义 —— 拓扑修行的九层天梯*
 
 师傅袖袍一挥，九道拓扑真言依次浮现，对应九层修行境界，为全书原创核心奥义：
@@ -148,7 +143,7 @@ $$ \chi = 2 - 2g $$
 
 ---
 
-![万骨归一 拓扑大道圆满](https://raw.gitcode.com/aikjx/aikjxcz/raw/main/2026/06/14/%E4%B9%96%E4%B9%96%E6%95%B0%E5%AD%A6%E6%95%B0%E6%9C%AF%E5%B7%A5%E5%9D%8A/img/%E5%85%AB%E5%8D%B7%E5%85%A8%E4%B9%A6%E6%80%BB%E8%A7%88/image_5.jpg)  
+![万骨归一 拓扑大道圆满](https://raw.gitcode.com/aikjx/aikjxcz/raw/main/2026/06/14/%E4%B9%96%E4%B9%96%E6%95%B0%E5%AD%A6%E6%95%B0%E6%9C%AF%E5%B7%A5%E5%9D%8A/img/image_5.jpg)  
 *形变万千，万骨归一 —— 拓扑大道圆满*
 
 > **形变万千，不离其宗；**  
