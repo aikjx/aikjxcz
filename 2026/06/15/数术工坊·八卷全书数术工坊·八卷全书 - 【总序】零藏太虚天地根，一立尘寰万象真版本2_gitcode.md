@@ -1,10 +1,20 @@
-# 数术工坊·八卷全书
+# 数术工坊·八卷全书 - 【总序】零藏太虚天地根，一立尘寰万象真
 
-![Image](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NmQ1NDVlYmVkZjYzN2VlOWJhMDNmZTA1YWQxZTAzYmFfZDgwMTMxNmU3MTA0NTQ0ZjgxN2FhY2NiNjdlM2JiYjlfSUQ6NzY1MTQwODgzMzMzNTc1ODA0OF8xNzgxNDgyNTkyOjE3ODE1Njg5OTJfVjM)
+![Image](https://raw.gitcode.com/aikjx/aikjxcz/raw/main/2026/06/15/img/image_1_1.jpg)
 
 ---
 
 ## 【总序】零藏太虚天地根，一立尘寰万象真
+
+---
+
+## 【第 0 层】零一无穷创世公理（宇宙源代码）
+
+**零・空元公理**：绝对太虚，万物归寂
+
+**一・实元公理**：信息基点，创世第一结构
+
+**零一无穷运化公理**：螺旋闭环，万法之源
 
 ---
 
@@ -14,7 +24,7 @@
 
 ## 【第一卷・泛函套娃录】新增隐藏副本：《套娃幽谷・非线性暴走劫》
 
-![Image](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjMzOTIzYTUxMzJlYjM5NzlhZWQyMzFjNGYxNjY3OTJfZDUwMGU5ZGRkYmQzODk3N2YyZWVkODc5MTI2ZWIxOTJfSUQ6NzY1MTQwODg0NTI1NTgzODkwMF8xNzgxNDgyNTkyOjE3ODE1Njg5OTJfVjM)
+![Image](https://raw.gitcode.com/aikjx/aikjxcz/raw/main/2026/06/15/img/image_1_2.jpg)
 
 **副本背景**：乱数教妖人窃取「歪把子车床」，让$\infty$层套娃疯狂自转，维度扭曲成麻花，泛函质检法则失效。
 
@@ -28,7 +38,8 @@
 
 ### 副本心法
 
-> 歪把子转终有停，弯镜照影芯不偏；$\infty$层塌缩归一处，泛函公理镇狂澜。
+> 歪把子转终有停，弯镜照影芯不偏；
+> $\infty$层塌缩归一处，泛函公理镇狂澜。
 > 
 > 
 
@@ -42,7 +53,7 @@
 
 ## 【第三卷・质数王朝志】新增联动副本：《皇陵盗墓・零点共振劫》
 
-![Image](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjdmNGQyZGEyMmI0OWVjYzJlNjA4NDA2YTgwYjMzYjZfMjk2NDlhMGQ3ODRlODQwY2FjMzE5ZDAyMGM3MjdhM2VfSUQ6NzY1MTQwODg2OTYzMzI2NDg0OV8xNzgxNDgyNTkyOjE3ODE1Njg5OTJfVjM)
+![Image](https://raw.gitcode.com/aikjx/aikjxcz/raw/main/2026/06/15/img/image_1_3.jpg)
 
 **副本背景**：代数门叛徒用「群论置换术」篡改黎曼零点，龙脉震荡，质数分布乱序。
 
@@ -56,7 +67,8 @@
 
 ### 副本心法
 
-> 零点守中线，龙脉疏密天；群攻难改质，数论本源坚。
+> 零点守中线，龙脉疏密天；
+> 群攻难改质，数论本源坚。
 > 
 > 
 
@@ -70,7 +82,7 @@
 
 ## 二、全设定联动逻辑梳理（核心概念对应表）
 
-![Image](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODM3YjdkZTE3Y2RlMGNiNGRhNmYwNjVkZjYyMjc4OWJfMjMxNGFkNWUxMjY5ZjQzMTg1YWZjNzkzZDU1NzkxNjdfSUQ6NzY1MTQwODg5ODA3ODk4NTQyM18xNzgxNDgyNTkyOjE3ODE1Njg5OTJfVjM)
+![Image](https://raw.gitcode.com/aikjx/aikjxcz/raw/main/2026/06/15/img/image_1_4.jpg)
 
 |数学分支|江湖隐喻|联动对象|联动逻辑（公理同源）|
 |---|---|---|---|
@@ -87,7 +99,7 @@
 
 ### 1\. 【黎曼猜想】→【龙脉临界线天规】
 
-**原知识点**：黎曼$\zeta$函数的所有非平凡零点实部都是$\frac{1}{2}$。
+**原知识点**：黎曼$\zeta$函数的所有非平凡零点实部都是$1/2$。
 
 **江湖改写**：
 
@@ -119,23 +131,7 @@
 
 ## 四、全书排版大纲（可直接发布版）
 
-### 《数术工坊・八卷全书》
-
-**【总序】零藏太虚天地根，一立尘寰万象真**
-
----
-
-**【第 0 层】零一无穷创世公理（宇宙源代码）**
-
-- 零・空元公理：绝对太虚，万物归寂
-
-- 一・实元公理：信息基点，创世第一结构
-
-- 零一无穷运化公理：螺旋闭环，万法之源
-
----
-
-**【第一卷】灵枢定界录（泛函分析）**
+### 【第一卷】灵枢定界录（泛函分析）
 
 - 第一章 套娃嵌套公理（无穷维空间）
 
@@ -153,9 +149,7 @@
 
 - 卷终铭文：套娃层叠无穷尽，算子开合有定规
 
----
-
-**【第二卷】天命赌坊录（概率论）**
+### 【第二卷】天命赌坊录（概率论）
 
 - 第一章 随机无常公理（随机变量$X$）
 
@@ -175,9 +169,7 @@
 
 - 卷终铭文：骰子起落无常定，大数归一势难逃
 
----
-
-**【第三卷】质数王朝志（数论）**
+### 【第三卷】质数王朝志（数论）
 
 - 第一章 王族本源（算术基本定理）
 
@@ -195,9 +187,7 @@
 
 - 卷终铭文：素数孤纯万数根，RSA 阵法护家门
 
----
-
-**【第四卷】形变归元录（拓扑学）**
+### 【第四卷】形变归元录（拓扑学）
 
 - 第一章 形变本心（连通公理）
 
@@ -215,9 +205,7 @@
 
 - 卷终铭文：弃尺忘方圆，同胚归一元
 
----
-
-**【第五卷】方程兵器谱（代数学）**
+### 【第五卷】方程兵器谱（代数学）
 
 - 第一章 集合营垒（营阵根基）
 
@@ -239,9 +227,7 @@
 
 - 卷终铭文：集合作营运算招，群环古阵立根本
 
----
-
-**【第六卷】量天尺传奇（几何学）**
+### 【第六卷】量天尺传奇（几何学）
 
 - 第一章 直规本源（点线面公理）
 
@@ -263,9 +249,7 @@
 
 - 卷终铭文：尺量天地规画圆，曲率有界道不欺
 
----
-
-**【第七卷】流韵万象录（微积分）**
+### 【第七卷】流韵万象录（微积分）
 
 - 第一章 极限玄关（无穷尽头定乾坤）
 
@@ -287,9 +271,7 @@
 
 - 卷终铭文：极限定宗微观看，积分立宏积如山
 
----
-
-**【第八卷】大道归一录（数理大一统）**
+### 【第八卷】大道归一录（数理大一统）
 
 - 上篇：七神归位・本源流形现世
 
@@ -305,20 +287,16 @@
 
 ---
 
-**【附录】终极联动彩蛋・无招胜有招**
+## 【附录】终极联动彩蛋・无招胜有招
+
+![Image](https://raw.gitcode.com/aikjx/aikjxcz/raw/main/2026/06/15/img/image_1_5.jpg)
 
 ---
 
-![Image](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Njc0NWMwNTdjYWJjZmMxNGIzNGJkNDNjZmE5NzJkNTRfZDMxY2I2N2EzNTg0OWRkNzVlNzlkNTM3YmViYjQ1MzdfSUQ6NzY1MTQwOTA3MDAzNjk2MjUzOV8xNzgxNDgyNTkyOjE3ODE1Njg5OTJfVjM)
+**算法设计联盟最高权限认证**
 
----
+**精度等级：8K 超高清视觉呈现**
 
-> 这套内容可以直接用于连载、教学科普或设定集发布，如果需要调整某卷的篇幅或补充特定知识点的隐喻，随时告诉我～😊
-> 
-> 
-
-> 算法设计联盟最高权限，跟进内容
-> 
-> 
+**对标标准：全球顶级科幻国风设计体系**
 
 > （注：文档部分内容可能由 AI 生成）
