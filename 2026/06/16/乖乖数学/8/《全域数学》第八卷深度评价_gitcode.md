@@ -1,6 +1,6 @@
 # 《全域数学》第八卷深度评价
 
-![Image](https://raw.gitcode.com/aikjx/aikjxcz/raw/main/2026/06/16/%E5%AE%88%E5%AE%88%E6%95%B0%E5%AD%A6/8/img/image_1.jpg)
+![Image](https://gitee.com/aikjx/aikjxcz/raw/main/2026/06/16/%E5%AE%88%E5%AE%88%E6%95%B0%E5%AD%A6/8/img/image_1.jpg)
 
 ---
 
@@ -10,7 +10,7 @@
 
 ## 一、创新突破：重构离散数学的 "物理 \- 数理 \- 工程" 三重属性
 
-![Image](https://raw.gitcode.com/aikjx/aikjxcz/raw/main/2026/06/16/%E5%AE%88%E5%AE%88%E6%95%B0%E5%AD%A6/8/img/image_2.jpg)
+![Image](https://gitee.com/aikjx/aikjxcz/raw/main/2026/06/16/%E5%AE%88%E5%AE%88%E6%95%B0%E5%AD%A6/8/img/image_2.jpg)
 
 ### 组合数学的物理化革命
 
@@ -26,7 +26,7 @@
 
 ---
 
-![Image](https://raw.gitcode.com/aikjx/aikjxcz/raw/main/2026/06/16/%E5%AE%88%E5%AE%88%E6%95%B0%E5%AD%A6/8/img/image_3.jpg)
+![Image](https://gitee.com/aikjx/aikjxcz/raw/main/2026/06/16/%E5%AE%88%E5%AE%88%E6%95%B0%E5%AD%A6/8/img/image_3.jpg)
 
 ### 图论的几何化升维
 
@@ -54,7 +54,7 @@ $n$ 阶完全图 $K_n$ 的边数等于 $\binom{n}{2}$，证明 "计数" 与 "拓
 
 ## 二、理论价值：填补离散数学的 "自洽 \- 统一 \- 边界" 三大空白
 
-![Image](https://raw.gitcode.com/aikjx/aikjxcz/raw/main/2026/06/16/%E5%AE%88%E5%AE%88%E6%95%B0%E5%AD%A6/8/img/image_4.jpg)
+![Image](https://gitee.com/aikjx/aikjxcz/raw/main/2026/06/16/%E5%AE%88%E5%AE%88%E6%95%B0%E5%AD%A6/8/img/image_4.jpg)
 
 ### 离散公理体系的完备性
 
@@ -90,7 +90,7 @@ $n$ 阶完全图 $K_n$ 的边数等于 $\binom{n}{2}$，证明 "计数" 与 "拓
 
 ## 三、工程实用性：从 "算法设计" 到 "物理落地" 的全链条支撑
 
-![Image](https://raw.gitcode.com/aikjx/aikjxcz/raw/main/2026/06/16/%E5%AE%88%E5%AE%88%E6%95%B0%E5%AD%A6/8/img/image_1.jpg)
+![Image](https://gitee.com/aikjx/aikjxcz/raw/main/2026/06/16/%E5%AE%88%E5%AE%88%E6%95%B0%E5%AD%A6/8/img/image_1.jpg)
 
 ### 密码学与编码工程
 
@@ -124,7 +124,7 @@ $n$ 阶完全图 $K_n$ 的边数等于 $\binom{n}{2}$，证明 "计数" 与 "拓
 
 ## 四、局限与展望
 
-![Image](https://raw.gitcode.com/aikjx/aikjxcz/raw/main/2026/06/16/%E5%AE%88%E5%AE%88%E6%95%B0%E5%AD%A6/8/img/image_2.jpg)
+![Image](https://gitee.com/aikjx/aikjxcz/raw/main/2026/06/16/%E5%AE%88%E5%AE%88%E6%95%B0%E5%AD%A6/8/img/image_2.jpg)
 
 ### 物理验证的实验缺口
 
@@ -146,7 +146,7 @@ $n$ 阶完全图 $K_n$ 的边数等于 $\binom{n}{2}$，证明 "计数" 与 "拓
 
 ## 总结：离散数学的 "物理化重生"，全域体系的 "结构骨架"
 
-![Image](https://raw.gitcode.com/aikjx/aikjxcz/raw/main/2026/06/16/%E5%AE%88%E5%AE%88%E6%95%B0%E5%AD%A6/8/img/image_3.jpg)
+![Image](https://gitee.com/aikjx/aikjxcz/raw/main/2026/06/16/%E5%AE%88%E5%AE%88%E6%95%B0%E5%AD%A6/8/img/image_3.jpg)
 
 第八卷的核心价值在于：将离散数学从 "计数工具" 升维为 "粒子配置与关系拓扑的物理定律"。它不仅填补了传统组合数学与图论的公理空白，更通过 "64 标准粒子" 的物理锚定，为超导晶格、量子电路、全球算力网络提供了结构蓝图。尽管存在实验验证与工程复杂度的不足，但其 "物理 \- 数理 \- 工程" 的三重创新，已使其成为全域数学体系中不可或缺的 "离散骨架"。
 
